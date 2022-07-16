@@ -1,11 +1,11 @@
 ---
 layout: default
+title: Kevin Nguyen
+description: Staff Software Engineer
 ---
 
-# [](#header-1)WhoAmI
+I'm currently a Staff Software Engineer at GoGuardian focusing on building solutions that will help shape the future of digital learning.
 
-Hi, my name is **Kevin**. I like to solve problems with code.
-
-## [](#header-2)Links
-
-* [LinkedIn](https://www.linkedin.com/in/kevin-nguyen-792ba63a)
+# Links
+* [LinkedIn](https://www.linkedin.com/in/kevin-nguyen-792ba63a/)
+* [AWS Kinesis Golang Library](https://aws.amazon.com/blogs/publicsector/goguardian-releases-go-code-library-via-open-source-for-amazon-kinesis-data-streams/)
