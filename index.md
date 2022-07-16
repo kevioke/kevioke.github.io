@@ -4,7 +4,7 @@ title: Kevin Nguyen
 description: Staff Software Engineer
 ---
 
-I'm currently a Staff Software Engineer at GoGuardian focusing on building solutions that will help shape the future of digital learning.
+I'm currently a Staff Software Engineer at [GoGuardian](https://www.goguardian.com/) focused on building solutions that will help shape the future of digital learning.
 
 # Links
 * [LinkedIn](https://www.linkedin.com/in/kevin-nguyen-792ba63a/)
